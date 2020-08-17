@@ -1,10 +1,11 @@
 # Testing BDD SpecFlow via NUnit
 
-Reference implementation of testing approach using BDD, SpecFlow and NUnit
+Reference implementation of testing approach using BDD, SpecFlow, NUnit, C#, and .net Core 3.x
 
 - [Behavior Driven Development - BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) 
 - [SpecFlow](https://specflow.org/) 
 - https://nunit.org/
+- https://github.com/dotnet/core
 
 ## Get Started
 
