@@ -1,6 +1,10 @@
-# bdd-specflow-mstest
+# Testing BDD SpecFlow via NUnit
 
-Reference implementation of testing approach using BDD, specflow and nunit
+Reference implementation of testing approach using BDD, SpecFlow and NUnit
+
+- [Behavior Driven Development - BDD](https://en.wikipedia.org/wiki/Behavior-driven_development) 
+- [SpecFlow](https://specflow.org/) 
+- https://nunit.org/
 
 ## Get Started
 
