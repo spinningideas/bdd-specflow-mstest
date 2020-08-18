@@ -21,7 +21,7 @@ Reference implementation of testing approach using BDD, SpecFlow, NUnit, C#, and
 
 4) Build the solution
 
-5) Run the tests using nUnit in Test Explorer
+5) Run the tests using NUnit in Test Explorer
 
 ## Read More
 
